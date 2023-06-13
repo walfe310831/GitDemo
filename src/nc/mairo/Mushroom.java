@@ -2,6 +2,6 @@ package nc.mairo;
 
 public class Mushroom {
 
-public int mushroomA;
+public int mushroom;
   
 }
